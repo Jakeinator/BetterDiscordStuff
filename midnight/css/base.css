@@ -839,7 +839,7 @@ a:hover .foreground-26ym5y {
 	top: 38%
 }
 
-.channel-2QD9_O a {
+.channel-1TmDQ6 a {
 	text-shadow: none
 }
 
@@ -887,7 +887,7 @@ a:hover .foreground-26ym5y {
 	height: 31px
 }
 
-.channel-2QD9_O.selected-aXhQR6 {
+.channel-1TmDQ6.selected-aXhQR6 {
 	background-color: var(--accent);
 	border-radius: 0;
 	margin-top: 7px;
@@ -898,7 +898,7 @@ a:hover .foreground-26ym5y {
 	text-shadow: 0 0 12px
 }
 
-.channel-2QD9_O {
+.channel-1TmDQ6 {
 	border-radius: 0;
 	transition: 150ms all ease;
 	background: rgba(255, 255, 255, .08);
@@ -908,17 +908,17 @@ a:hover .foreground-26ym5y {
 	border-left: 2px solid rgba(255, 255, 255, .1)
 }
 
-.channel-2QD9_O:not(.selected-aXhQR6):hover {
+.channel-1TmDQ6:not(.selected-aXhQR6):hover {
 	background-color: rgba(255, 255, 255, .15);
 	box-shadow: 0 0 2px 2px rgba(255, 255, 255, .15);
 	border-left: 2px solid rgba(255, 255, 255, .5);
 	padding-left: 5px
 }
 
-#app-mount .channel-2QD9_O[href="/activity"],
-#app-mount .channel-2QD9_O[href="/channels/@me"]:not([href="/channels/@me/"]),
-#app-mount .channel-2QD9_O[href="/library"],
-#app-mount .channel-2QD9_O[href="/store"] {
+#app-mount .channel-1TmDQ6[href="/activity"],
+#app-mount .channel-1TmDQ6[href="/channels/@me"]:not([href="/channels/@me/"]),
+#app-mount .channel-1TmDQ6[href="/library"],
+#app-mount .channel-1TmDQ6[href="/store"] {
 	display: inline-block;
 	transition: 150ms ease all;
 	margin-left: 22px;
@@ -930,36 +930,36 @@ a:hover .foreground-26ym5y {
 	border: none
 }
 
-#app-mount .channel-2QD9_O[href="/activity"] .layout-2DM8Md,
-#app-mount .channel-2QD9_O[href="/channels/@me"]:not([href="/channels/@me/"]) .layout-2DM8Md,
-#app-mount .channel-2QD9_O[href="/library"] .layout-2DM8Md,
-#app-mount .channel-2QD9_O[href="/store"] .layout-2DM8Md {
+#app-mount .channel-1TmDQ6[href="/activity"] .layout-2DM8Md,
+#app-mount .channel-1TmDQ6[href="/channels/@me"]:not([href="/channels/@me/"]) .layout-2DM8Md,
+#app-mount .channel-1TmDQ6[href="/library"] .layout-2DM8Md,
+#app-mount .channel-1TmDQ6[href="/store"] .layout-2DM8Md {
 	flex-direction: column;
 	height: 50px
 }
 
-#app-mount .channel-2QD9_O[href="/activity"] .avatar-3uk_u9,
-#app-mount .channel-2QD9_O[href="/channels/@me"]:not([href="/channels/@me/"]) .avatar-3uk_u9,
-#app-mount .channel-2QD9_O[href="/library"] .avatar-3uk_u9,
-#app-mount .channel-2QD9_O[href="/store"] .avatar-3uk_u9 {
+#app-mount .channel-1TmDQ6[href="/activity"] .avatar-3uk_u9,
+#app-mount .channel-1TmDQ6[href="/channels/@me"]:not([href="/channels/@me/"]) .avatar-3uk_u9,
+#app-mount .channel-1TmDQ6[href="/library"] .avatar-3uk_u9,
+#app-mount .channel-1TmDQ6[href="/store"] .avatar-3uk_u9 {
 	margin: 0
 }
 
-#app-mount .channel-2QD9_O.selected-aXhQR6.container-2Pjhx-[href="/activity"],
-#app-mount .channel-2QD9_O.selected-aXhQR6.container-2Pjhx-[href="/channels/@me"]:not([href="/channels/@me/"]),
-#app-mount .channel-2QD9_O.selected-aXhQR6.container-2Pjhx-[href="/library"],
-#app-mount .channel-2QD9_O.selected-aXhQR6.container-2Pjhx-[href="/store"],
-#app-mount .channel-2QD9_O[href="/activity"]:hover,
-#app-mount .channel-2QD9_O[href="/channels/@me"]:not([href="/channels/@me/"]):hover,
-#app-mount .channel-2QD9_O[href="/library"]:hover,
-#app-mount .channel-2QD9_O[href="/store"]:hover {
+#app-mount .channel-1TmDQ6.selected-aXhQR6.container-2Pjhx-[href="/activity"],
+#app-mount .channel-1TmDQ6.selected-aXhQR6.container-2Pjhx-[href="/channels/@me"]:not([href="/channels/@me/"]),
+#app-mount .channel-1TmDQ6.selected-aXhQR6.container-2Pjhx-[href="/library"],
+#app-mount .channel-1TmDQ6.selected-aXhQR6.container-2Pjhx-[href="/store"],
+#app-mount .channel-1TmDQ6[href="/activity"]:hover,
+#app-mount .channel-1TmDQ6[href="/channels/@me"]:not([href="/channels/@me/"]):hover,
+#app-mount .channel-1TmDQ6[href="/library"]:hover,
+#app-mount .channel-1TmDQ6[href="/store"]:hover {
 	color: var(--accent)
 }
 
-#app-mount .channel-2QD9_O[href="/activity"] .layout-2DM8Md::after,
-#app-mount .channel-2QD9_O[href="/channels/@me"]:not([href="/channels/@me/"]) .layout-2DM8Md::after,
-#app-mount .channel-2QD9_O[href="/library"] .layout-2DM8Md::after,
-#app-mount .channel-2QD9_O[href="/store"] .layout-2DM8Md::after {
+#app-mount .channel-1TmDQ6[href="/activity"] .layout-2DM8Md::after,
+#app-mount .channel-1TmDQ6[href="/channels/@me"]:not([href="/channels/@me/"]) .layout-2DM8Md::after,
+#app-mount .channel-1TmDQ6[href="/library"] .layout-2DM8Md::after,
+#app-mount .channel-1TmDQ6[href="/store"] .layout-2DM8Md::after {
     content:'';
     position:absolute;
     top:-5px;
@@ -984,10 +984,10 @@ a:hover .foreground-26ym5y {
     }
 }
 
-#app-mount .channel-2QD9_O[href="/activity"] .layout-2DM8Md:active::after,
-#app-mount .channel-2QD9_O[href="/channels/@me"]:not([href="/channels/@me/"]) .layout-2DM8Md:active::after,
-#app-mount .channel-2QD9_O[href="/library"] .layout-2DM8Md:active::after,
-#app-mount .channel-2QD9_O[href="/store"] .layout-2DM8Md:active::after {
+#app-mount .channel-1TmDQ6[href="/activity"] .layout-2DM8Md:active::after,
+#app-mount .channel-1TmDQ6[href="/channels/@me"]:not([href="/channels/@me/"]) .layout-2DM8Md:active::after,
+#app-mount .channel-1TmDQ6[href="/library"] .layout-2DM8Md:active::after,
+#app-mount .channel-1TmDQ6[href="/store"] .layout-2DM8Md:active::after {
     animation:home-ripple .15s ease backwards;
         transform:scale(1);
         opacity:.15;
@@ -1011,26 +1011,26 @@ a:hover .foreground-26ym5y {
 	margin-top: -10px
 }
 
-.channel-2QD9_O .numberBadge-2s8kKX {
+.channel-1TmDQ6 .numberBadge-2s8kKX {
 	margin-top: -35px;
 	margin-left: 5px;
 	transform: scale(.75);
 	z-index: 1
 }
 
-#app-mount .channel-2QD9_O {
+#app-mount .channel-1TmDQ6 {
 	text-shadow: none
 }
 
-#app-mount .channel-2QD9_O {
+#app-mount .channel-1TmDQ6 {
 	max-width: 235px;
 	margin-left: 15px
 }
 
-#app-mount .channel-2QD9_O[href="/activity"] .layout-2DM8Md .name-uJV0GL,
-#app-mount .channel-2QD9_O[href="/channels/@me"]:not([href="/channels/@me/"]) .layout-2DM8Md .name-uJV0GL,
-#app-mount .channel-2QD9_O[href="/library"] .layout-2DM8Md .name-uJV0GL,
-#app-mount .channel-2QD9_O[href="/store"] .layout-2DM8Md .name-uJV0GL {
+#app-mount .channel-1TmDQ6[href="/activity"] .layout-2DM8Md .name-uJV0GL,
+#app-mount .channel-1TmDQ6[href="/channels/@me"]:not([href="/channels/@me/"]) .layout-2DM8Md .name-uJV0GL,
+#app-mount .channel-1TmDQ6[href="/library"] .layout-2DM8Md .name-uJV0GL,
+#app-mount .channel-1TmDQ6[href="/store"] .layout-2DM8Md .name-uJV0GL {
 	font-size:var(--size4);
 }
 
@@ -7753,7 +7753,7 @@ body #app-mount .da-container .da-markup pre .hljs[class$="hljs"]::before {
 }
 
 #app-mount .avatar-3uk_u9,
-#app-mount .channel-2QD9_O .wrapper-3t9DeA,
+#app-mount .channel-1TmDQ6 .wrapper-3t9DeA,
 .member-3-YXUe .wrapper-3t9DeA {
 	width: 26px!important;
 	height: 26px!important
@@ -7765,7 +7765,7 @@ body #app-mount .da-container .da-markup pre .hljs[class$="hljs"]::before {
 
 #app-mount .member-3-YXUe.selected-aXhQR6 .activity-3mKQ-i,
 .akaBadge-1M-1Gw,
-.channel-2QD9_O.selected-aXhQR6 .activity-3mKQ-i {
+.channel-1TmDQ6.selected-aXhQR6 .activity-3mKQ-i {
 	color: #fff
 }
 
@@ -7889,7 +7889,7 @@ body #app-mount .da-container .da-markup pre .hljs[class$="hljs"]::before {
 	background: var(--lv1)
 }
 
-.channel-2QD9_O.selected-aXhQR6 .activity-525YDR {
+.channel-1TmDQ6.selected-aXhQR6 .activity-525YDR {
 	color: #fff
 }
 
